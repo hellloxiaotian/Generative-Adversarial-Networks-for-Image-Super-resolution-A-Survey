@@ -95,9 +95,13 @@
 ### KernelGAN can be obtained at https://github.com/sefibk/KernelGAN.  
 
   <Br/>  
-  
+
+
+
 ### If you cite this paper, please refer to the following formats: 
 #### 1. Tian C, Zhang X, Lin J C W, et al. Generative Adversarial Networks for Image Super-Resolution: A Survey[J]. arXiv preprint arXiv:2204.13620, 2022.
+
+
 
 #### 2. @article{tian2022generative,
 ####     title={Generative Adversarial Networks for Image Super-Resolution: A Survey},
