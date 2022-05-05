@@ -1,4 +1,4 @@
-# Generative Adversarial Networks for Image Super resolution A Survey is conducted by Chunwei Tian, Xuanyu Zhang, Jerry Chun-Wei Lin, Wangmeng Zuo and Yanning Zhang and it is available at52CV(https://mp.weixin.qq.com/s/VLH57qUJLYgA8FvDdBccZQ and Cver(https://arxiv.53yu.com/abs/2204.13620). It is reported by Cver and 52CV.
+# Generative Adversarial Networks for Image Super resolution A Survey is conducted by Chunwei Tian, Xuanyu Zhang, Jerry Chun-Wei Lin, Wangmeng Zuo and Yanning Zhang and it is available at52CV(https://mp.weixin.qq.com/s/VLH57qUJLYgA8FvDdBccZQ, AIWalker(https://mp.weixin.qq.com/s/pinf8xr_Ha_jhrpP-56XoA) and Cver(https://arxiv.53yu.com/abs/2204.13620). It is reported by Cver and 52CV.
 
 ## This paper is a complete summary of generative adversarial networks for image super-resolution, which is very meaningful to readers. 
 
